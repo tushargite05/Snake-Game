@@ -1,3 +1,8 @@
+'''Snake moving throgh that program
+            author:   @Tushar
+             End
+              '''
+
 from random import *
 from turtle import *
 
