@@ -1,7 +1,8 @@
-"""Utilities
+'''  event for snake game
+            author:   @Tushar
+             End
+              '''
 
-"""
-# pylint: disable=no-member
 
 import collections
 import math
