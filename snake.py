@@ -1,3 +1,7 @@
+'''Game Name:  Snake Game
+            author:   @Tushar
+             End
+              '''
 from turtle import *
 from random import *
 from base import vector, square
